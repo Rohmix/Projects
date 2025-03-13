@@ -16,13 +16,12 @@ This repository is a curated collection of my personal projects, built to demons
 
 ## 🛠️ Featured Projects
 
-| Project Name       | Description                              | Tech Stack         |
-|--------------------|------------------------------------------|--------------------|
-| **[Project 1]**    | A brief overview of what it does.        | e.g., Python, Flask|
-| **[Project 2]**    | Highlights its purpose and features.     | e.g., JS, React    |
-| **[Project 3]**    | Quick summary of its functionality.      | e.g., Java, Spring |
-
-*(Details and links to individual projects can be found in the repo!)*
+| Project Name       | Description                                   | Tech Stack         |
+|--------------------|-----------------------------------------------|--------------------|
+| *Autism detection* | find autism cases based on FMRI 3D Images.    | Python, Opencv     |
+| *Brain tumor detect| Classify Tumor and healthy Cases.             | Deep Learning      |
+| *Sales prediction* | predict sales of comany with machine learning.| Machine learning   |
+| *Fraud detection*  | find Spam and Fraud transactions based on NLP |python, NLTK        |
 
 ---
 
